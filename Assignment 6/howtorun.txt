@@ -1,0 +1,5 @@
+steps to run
+1.  cd apache-activemq-5.15.8-bin/
+2.  sudo sh activemq start
+3. add activemq-all-5.18.3.jar in referenced libraries.
+3. Start sub, then pub
